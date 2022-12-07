@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+spring:
+  data:
+    mongodb:
+      host: 54.189.27.197
+#      host: localhost
+      port: 27017
+      database: movie
